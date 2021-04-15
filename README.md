@@ -11,6 +11,6 @@ The required files is the assay database with intervals and a palete and legend 
 The SCD file containing the palete and legend is in a proprietary format. Its a simple ASCII file formated with a proprietary DSL similar to JSON. It may may be adapted to your data, but may be easier to adapt the code to read palete and legends from other sources. Rather than a fork, it would be a good idea to detect the extension of the palette file and handle it in a similar way with a drop in replacement for the VulcanScd class.
 
 ## Result screenshot
-![screenshot2](https://github.com/pemn/db_downhole_chart/blob/master/assets/screenshot2.png)
+![screenshot2](./assets/screenshot2.png?raw=true)
 ## Panel
-![screenshot1](https://github.com/pemn/db_downhole_chart/blob/master/assets/screenshot1.png)
+![screenshot1](./assets/screenshot1.png?raw=true)

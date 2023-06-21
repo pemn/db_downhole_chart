@@ -34,7 +34,7 @@ etc|#FFFFFF
 ## 🧩 Compatibility
 distribution|status
 ---|---
-![winpython_icon](https://github.com/pemn/assets/blob/main/winpython_icon.png.png?raw=true)|✔
+![winpython_icon](https://github.com/pemn/assets/blob/main/winpython_icon.png?raw=true)|✔
 ![vulcan_icon](https://github.com/pemn/assets/blob/main/vulcan_icon.png?raw=true)|❓
 ![anaconda_icon](https://github.com/pemn/assets/blob/main/anaconda_icon.png?raw=true)|❌
 ## 💎 License

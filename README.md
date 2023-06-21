@@ -36,11 +36,11 @@ overburden|#00FF00
 etc|#FFFFFF
 
 ## 📚 Examples
-![screenshot1](https://github.com/pemn/assets/blob/main/db_downhole_chart1.png?raw=true)  
+![screenshot1](https://github.com/pemn/assets/blob/main/db_downhole_chart2.png?raw=true)  
 ## 🧩 Compatibility
 distribution|status
 ---|---
-![winpython_icon](![screenshot1](https://github.com/pemn/assets/blob/main/winpython_icon.png.png?raw=true)|✔
+![winpython_icon](https://github.com/pemn/assets/blob/main/winpython_icon.png.png?raw=true)|✔
 ![vulcan_icon](https://github.com/pemn/assets/blob/main/vulcan_icon.png?raw=true)|❓
 ![anaconda_icon](https://github.com/pemn/assets/blob/main/anaconda_icon.png?raw=true)|❌
 ## 💎 License

@@ -1,16 +1,10 @@
 # db_downhole_chart
-
-
-## Description
-Downhole charts are a common type of visualization for drillhole data. Those charts allow for a quick glipse of the information contained on the intervals. Many proprietary softwares already have bult-in tools for generating those charts, but open source tools are not available.  
-
-## how to use
-The required files is the assay database with intervals and rgb color table file. 
-
-## RGB table
 ## 📌 Description
 create charts showing downhole geology+grades of mining drillholes   
-also included in the repository some variations that fulfill specific purposes
+also included in the repository some variations that fulfill specific purposes  
+Downhole charts are a common type of visualization for drillhole data. Those charts allow for a quick glipse of the information contained on the intervals. Many proprietary softwares already have bult-in tools for generating those charts, but open source tools are not available.  
+## how to use
+The required files is the assay database with intervals and rgb color table file. 
 ## 📸 Screenshot
 ![screenshot1](https://github.com/pemn/assets/blob/main/db_downhole_chart1.png?raw=true)  
 ## 📝 Parameters
@@ -36,7 +30,7 @@ overburden|#00FF00
 etc|#FFFFFF
 
 ## 📚 Examples
-![screenshot1](https://github.com/pemn/assets/blob/main/db_downhole_chart2.png?raw=true)  
+![screenshot2](https://github.com/pemn/assets/blob/main/db_downhole_chart2.png?raw=true)  
 ## 🧩 Compatibility
 distribution|status
 ---|---

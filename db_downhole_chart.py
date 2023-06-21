@@ -51,8 +51,10 @@ def plot_downhole(df, hid, gs, col, v_from, v_to, v_lito, variables, df_rgb, v_m
     if len(variables):
       ax.legend()
     x0, x1 = ax.get_xlim()
-    xw = (x1 - x0) * .2
-    ax.bar(x0 - xw, df[v_to] - df[v_from], xw, df[v_from], color=rgb, xerr=0.2)
+    barx = np.asfarray(df[v_to] - df[v_from])
+    barw = (x1 - x0) * .2
+    barh = np.full(barx.size, x0 - barw)
+    ax.bar(barh, barx, barw, df[v_from], color=rgb, xerr=0.2)
 
 def db_downhole_chart(input_path, condition, v_hid, v_from, v_to, v_lito, variables, lito_rgb, output, display, page_charts = 6):
   v_hid = v_hid or 'hid'

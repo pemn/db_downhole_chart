@@ -12,9 +12,10 @@ The required files is the assay database with intervals and rgb color table file
 create charts showing downhole geology+grades of mining drillholes   
 also included in the repository some variations that fulfill specific purposes
 ## 📸 Screenshot
-![screenshot1](./assets/screenshot1.png?raw=true)
+![screenshot1](https://github.com/pemn/assets/blob/main/db_downhole_chart1.png?raw=true)  
 ## 📝 Parameters
 name|optional|description
+---|---|------
 input|❎|database with holes
 holeid|❎|variable with hole name
 from|❎|hole interval start
@@ -26,14 +27,22 @@ output|☑️|path to save pdf file with charts
 display|☑️|render the output chart on a window
 page_charts|☑️|how many charts will each page contain
 ## 📓 Notes
+### lito_rgb file example
+lito|rgb
+---|---
+ore|#0000FF
+waste|#FF0000
+overburden|#00FF00
+etc|#FFFFFF
+
 ## 📚 Examples
-![screenshot2](./assets/screenshot2.png?raw=true)
+![screenshot1](https://github.com/pemn/assets/blob/main/db_downhole_chart1.png?raw=true)  
 ## 🧩 Compatibility
 distribution|status
 ---|---
-![winpython_icon](./assets/winpython_icon.png)|✔
-![vulcan_icon](./assets/vulcan_icon.png)|❓
-![anaconda_icon](./assets/anaconda_icon.png)|❌
+![winpython_icon](![screenshot1](https://github.com/pemn/assets/blob/main/winpython_icon.png.png?raw=true)|✔
+![vulcan_icon](https://github.com/pemn/assets/blob/main/vulcan_icon.png?raw=true)|❓
+![anaconda_icon](https://github.com/pemn/assets/blob/main/anaconda_icon.png?raw=true)|❌
 ## 💎 License
 Apache 2.0
 
